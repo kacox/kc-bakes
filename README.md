@@ -2,6 +2,6 @@
 
 Collection of baking recipes and concepts.
 
-## TODO
+## Recipes
 
-Add a static site generator for easy viewing.
+[Test recipe](content/recipes/test_recipe.md)
